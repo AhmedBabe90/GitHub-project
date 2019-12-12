@@ -12,4 +12,5 @@ The files used are of a format csv, they are the names: chicago, new-york-city a
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This dataset is extracted of a data base that represent the source.
 

@@ -8,7 +8,7 @@ Replace the Project Title
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+The files are a csv files, named as: chicago, new-york-city and whshington.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.

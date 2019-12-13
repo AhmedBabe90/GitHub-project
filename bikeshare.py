@@ -66,7 +66,7 @@ def load_data(city, month, day):
 
 
     # filter by month if applicable
-    if month != 'all':
+    if month != 'all': # If all is entered by the user, the programm will consider the entire year.
         # use the index of the months list to get the corresponding int
         months = ['january', 'february', 'march', 'april', 'may', 'june']
         month = months.index(month) + 1
